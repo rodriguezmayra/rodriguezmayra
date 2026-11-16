@@ -21,15 +21,15 @@
 
 <br>
 
-- Me gustaría aprender más sobre:
+- **Me gustaría aprender más sobre:**
 
- - Tecnología:
-  - **Ciberseguridad**
-  - **Dynamic SQL en PHP**
-  - **Virtualización utilizando VirtualBox**
-  
+  - Tecnología:
+   - Ciberseguridad
+   - Dynamic SQL en PHP
+   - Virtualización utilizando VirtualBox
+
   - Matemáticas:
-   - **Teoría de Juegos**  
+   - Teoría de Juegos
 
 
 <!--
