@@ -24,12 +24,12 @@
 - **Me gustaría aprender más sobre:**
 
   - Tecnología:
-   - Ciberseguridad
-   - Dynamic SQL en PHP
-   - Virtualización utilizando VirtualBox
+     - Ciberseguridad
+     - Dynamic SQL en PHP
+     -  Virtualización utilizando VirtualBox
 
   - Matemáticas:
-   - Teoría de Juegos
+     - Teoría de Juegos
 
 
 <!--
